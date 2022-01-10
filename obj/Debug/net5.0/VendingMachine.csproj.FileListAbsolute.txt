@@ -1,0 +1,16 @@
+D:\Learning\VendingMachine\bin\Debug\net5.0\VendingMachine.exe
+D:\Learning\VendingMachine\bin\Debug\net5.0\VendingMachine.deps.json
+D:\Learning\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.json
+D:\Learning\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.dev.json
+D:\Learning\VendingMachine\bin\Debug\net5.0\VendingMachine.dll
+D:\Learning\VendingMachine\bin\Debug\net5.0\ref\VendingMachine.dll
+D:\Learning\VendingMachine\bin\Debug\net5.0\VendingMachine.pdb
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.AssemblyReference.cache
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfoInputs.cache
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfo.cs
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.dll
+D:\Learning\VendingMachine\obj\Debug\net5.0\ref\VendingMachine.dll
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.pdb
+D:\Learning\VendingMachine\obj\Debug\net5.0\VendingMachine.genruntimeconfig.cache
