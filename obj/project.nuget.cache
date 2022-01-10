@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ogqVg9De+I+VdIfCGqDT3bfcUwb2EOnKAU4PJj5CL+qni94SIXahGLcJ8hFPgM64nM+LpZ3CnRE/cuFeaIo7YQ==",
+  "dgSpecHash": "OmMzTVBG9d9MyY1282x4KPnAhVGk/2xT+5QQblpCH16IoI+KEOYrcJlXkCE7VOvupaq5bxtaK/ee+nAOL31Wdg==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\VendingMachine\\VendingMachine.csproj",
+  "projectFilePath": "D:\\Learning\\VendingMachineConsole\\VendingMachine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

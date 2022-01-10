@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\VendingMachine\\VendingMachine.csproj": {}
+    "D:\\Learning\\VendingMachineConsole\\VendingMachine.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\VendingMachine\\VendingMachine.csproj": {
+    "D:\\Learning\\VendingMachineConsole\\VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\VendingMachine\\VendingMachine.csproj",
+        "projectUniqueName": "D:\\Learning\\VendingMachineConsole\\VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "D:\\Learning\\VendingMachine\\VendingMachine.csproj",
+        "projectPath": "D:\\Learning\\VendingMachineConsole\\VendingMachine.csproj",
         "packagesPath": "C:\\Users\\Nuari Project\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\VendingMachine\\obj\\",
+        "outputPath": "D:\\Learning\\VendingMachineConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nuari Project\\AppData\\Roaming\\NuGet\\NuGet.Config",
