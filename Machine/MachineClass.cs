@@ -21,7 +21,7 @@ namespace VendingMachine.Machine
             int Total = GetMakanan.harga * stok;
             string Val = GetMakanan.stok >= stok ? 
                         "Stok Makanan Tersedia\nTotal Pemesanan Rp. "+ Total : 
-                        "Stok Makanan Kurang";
+                        "Stok Makanan Kurang, Stok Tersedia "+ GetMakanan.stok;
             return Val;
         }
 
