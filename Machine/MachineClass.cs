@@ -25,6 +25,16 @@ namespace VendingMachine.Machine
             return Val;
         }
 
+        public bool PengecekanStokBool(List<MakananModel> MakananList, int id, int stok)
+        {
+            var GetMakanan = GetMakananList(MakananList, id).FirstOrDefault();
+            int Total = GetMakanan.harga * stok;
+            bool Val = GetMakanan.stok >= stok ?
+                        true :
+                        false;
+            return Val;
+        }
+
         public bool PengecekanUang(List<UangPecahanModel> uangPecahanList, int uang)
         {
             bool Val = uangPecahanList.Any(ss => ss.pecahan == uang);
