@@ -34,7 +34,7 @@ namespace VendingMachine
                 status = GetmachineObject.PengecekanStok(MakananList, NoMakanan, JmlPembelian);
                 Console.WriteLine(status);
                 #endregion
-                if(!status.Equals("Stok Makanan Kurang"))
+                if(GetmachineObject.PengecekanStokBool(MakananList, NoMakanan, JmlPembelian))
                 {
                     #region Konfirmasi
                     Console.WriteLine();
@@ -73,6 +73,7 @@ namespace VendingMachine
                         Console.WriteLine();
                         GetmachineObject.Report(MakananList, NoMakanan, JmlPembelian, Uang);
                         MakananList = GetmachineObject.UpdateStok(MakananList, NoMakanan, JmlPembelian);
+                        Uang = 0;
                         #endregion
 
                     }
