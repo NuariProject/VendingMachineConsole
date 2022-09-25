@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nuari Project\\.nuget\\packages\\": {}
+    "C:\\Users\\nuari\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\VendingMachineConsole\\VendingMachine.csproj",
+      "projectUniqueName": "G:\\Belajar\\Console Logic\\VendingMachineConsole\\VendingMachine.csproj",
       "projectName": "VendingMachine",
-      "projectPath": "D:\\Learning\\VendingMachineConsole\\VendingMachine.csproj",
-      "packagesPath": "C:\\Users\\Nuari Project\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\VendingMachineConsole\\obj\\",
+      "projectPath": "G:\\Belajar\\Console Logic\\VendingMachineConsole\\VendingMachine.csproj",
+      "packagesPath": "C:\\Users\\nuari\\.nuget\\packages\\",
+      "outputPath": "G:\\Belajar\\Console Logic\\VendingMachineConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nuari Project\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nuari\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

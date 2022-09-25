@@ -30,3 +30,19 @@ D:\Learning\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.dll
 D:\Learning\VendingMachineConsole\obj\Debug\net5.0\ref\VendingMachine.dll
 D:\Learning\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.pdb
 D:\Learning\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.genruntimeconfig.cache
+G:\Belajar\Console Logic\VendingMachineConsole\bin\Debug\net5.0\VendingMachine.exe
+G:\Belajar\Console Logic\VendingMachineConsole\bin\Debug\net5.0\VendingMachine.deps.json
+G:\Belajar\Console Logic\VendingMachineConsole\bin\Debug\net5.0\VendingMachine.runtimeconfig.json
+G:\Belajar\Console Logic\VendingMachineConsole\bin\Debug\net5.0\VendingMachine.runtimeconfig.dev.json
+G:\Belajar\Console Logic\VendingMachineConsole\bin\Debug\net5.0\VendingMachine.dll
+G:\Belajar\Console Logic\VendingMachineConsole\bin\Debug\net5.0\VendingMachine.pdb
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.csproj.AssemblyReference.cache
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.AssemblyInfoInputs.cache
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.AssemblyInfo.cs
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.csproj.CoreCompileInputs.cache
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.dll
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\refint\VendingMachine.dll
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.pdb
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\VendingMachine.genruntimeconfig.cache
+G:\Belajar\Console Logic\VendingMachineConsole\obj\Debug\net5.0\ref\VendingMachine.dll
